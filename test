@@ -1,2 +1,0 @@
-def print_args(*a):
-print(a)
