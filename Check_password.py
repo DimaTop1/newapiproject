@@ -12,3 +12,5 @@ def check_password(func):
 @check_password
 def clown():
     print("победа")
+
+clown()
